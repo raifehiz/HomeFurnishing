@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #EFEEEF;
+}
+
+.container{
+    margin: 3em 8%;
+    background-color: #EEECEC;
+    border-radius: 30px;
+    box-shadow:0px 0px 40px black;
+}
+
+header{
+    padding: 20px;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 30px;
+    box-shadow:0px 0px 10px black;
+
+}
